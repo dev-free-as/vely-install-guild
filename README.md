@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="screenshots/vely-logo.png" width="104" height="104" alt="Vely" />
+
 # 📲 Vely 갤럭시(안드로이드) 설치 가이드
 
 ### 발로란트 컴패니언 앱 **Vely** — 안드로이드 APK 설치법
