@@ -2,6 +2,6 @@
   "versionCode": 4,
   "versionName": "0.4.0",
   "apkUrl": "https://github.com/dev-free-as/vely-install-guild/releases/download/v0.4.0-android/vely-v0.4.0.apk",
-  "notes": "· 자동 업데이트 실설치 검증 빌드\n· v0.3.0 기능 동일",
+  "notes": "· 정보 탭 랭크/인증 오류 수정\n· 첫 실행 온보딩 튜토리얼\n· 쿠키 만료 시 자동 로그아웃 + 재로그인 안내\n· 앱 내 자동 업데이트",
   "mandatory": false
 }
