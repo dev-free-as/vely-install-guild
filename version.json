@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "versionName": "0.3.0",
-  "apkUrl": "https://github.com/dev-free-as/velyandroid/releases/download/v0.2.0-android/vely-v0.2.0.apk",
-  "notes": "자동 업데이트 기능 테스트 빌드\n· 정보 탭 랭크/인증 오류 수정\n· 첫 실행 온보딩 추가",
+  "apkUrl": "https://github.com/dev-free-as/vely-install-guild/releases/download/v0.3.0-android/vely-v0.3.0.apk",
+  "notes": "다운로드+설치 흐름 검증 (임시 versionCode=4)",
   "mandatory": false
 }
